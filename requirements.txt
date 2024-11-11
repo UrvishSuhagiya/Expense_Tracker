@@ -1,2 +1,3 @@
-Django==3.x.x
-tkcalendar==1.x.x
+Django==3.2.9  # or any valid 3.x.x version
+tkcalendar==1.6.1  # or any valid version
+Pillow
